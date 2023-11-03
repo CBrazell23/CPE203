@@ -1,0 +1,10 @@
+Isha Lamba & Cole Brazell
+Project 4
+
+
+1. The click of a mouse triggers the world event, which is the spawning of a volcano.
+2.Using the background class, we create a volcano image at the click, creating flames from the image file around the location the volcano is placed at.
+3.The goal of changing an existing entity, which we chose to do with miner, is accomplished by turning them into flames which move randomly (how we chose to change behavior).
+4. The new entity is an explosion, which we have created a class for and aim to spawn around the volcano, again in random movements.
+5. Cole helped create the explosion class, Isha organized imaging/background, and both worked on VirtualWorld over zoom to implement clicking and movement design.
+
